@@ -28,9 +28,9 @@ __Androidside:__
 * Full syncs using __REST__
 
 ## Can't I read all this somewhere already?
-Yes you can! There are alot of documents, tutorials, sample code
+Yes you can! There are a lot of documents, tutorials, sample code
 and help you can get online, many times straight from Google themselves!
-The problem is that there is __alot__ of documents, tutorials etc.
+The problem is that there is __a lot__ of documents, tutorials etc.
 And they all __focus on one thing__. Either it's a document about
 making a _SyncAdapter_, or it's a tutorial on _GCM_, or a document
 about making a _WebApp_.
