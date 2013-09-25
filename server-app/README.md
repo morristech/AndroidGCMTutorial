@@ -30,8 +30,8 @@ I'm going to start by creating a REST skeleton of what I
 want to do. The methods are basically as follows:
 
 * get all links: GET request on __links.nononsenseapps.com/links__
-* get a specific link: GET request on __links.nononsenseapps.com/links/<id>__
-* delete a specific link: DELETE request on __links.nononsenseapps.com/links/<id>__
+* get a specific link: GET request on __links.nononsenseapps.com/links/id__
+* delete a specific link: DELETE request on __links.nononsenseapps.com/links/id__
 * add a link: POST request on __links.nononsenseapps.com/links__
 
 ```python

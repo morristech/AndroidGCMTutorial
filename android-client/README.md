@@ -378,7 +378,7 @@ DatabaseHandler db = DatabaseHandler.getInstance(getContext());
 //...
 ```
 
-__GCMHelper_ is a class with a couple of convenience methods.
+__GCMHelper__ is a class with a couple of convenience methods.
 The interesting ones are these:
 
 *Snippet of __GCMHelper.java__*
