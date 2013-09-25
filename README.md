@@ -157,6 +157,8 @@ Have a look in _android-client_ for that.
 ## Result
 You can download the finished app and try it out for yourself here:
 
-APK LINK TO RELEASES
+[apk file](https://github.com/spacecowboy/AndroidGCMTutorial/releases/download/v1.0/AndroidLinksGCM-release.apk)
 
-It connects to a running version of the server-app.
+It connects to a running version of the server-app. And looks like this:
+
+![](img/list.png)
