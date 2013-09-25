@@ -161,4 +161,4 @@ You can download the finished app and try it out for yourself here:
 
 It connects to a running version of the server-app. And looks like this:
 
-![](img/list.png)
+<img src="img/list.png" width="50%" height="50%"/>

@@ -7,9 +7,9 @@ is implemented at all. The app simply stores a list of links in its local
 database. A user can share a link from anywhere and select 'Add to Links'
 to add links easily and quickly.
 
-TODO: Pictures here
-
-
+<img src="img/list.png" width="50%" height="50%"/>
+<img src="img/share.png" width="50%" height="50%"/>
+<img src="img/add.png" width="50%" height="50%"/>
 
 ## Adding synchronization with a SyncAdapter
 __SHA1__: b9f8624fa038f0
