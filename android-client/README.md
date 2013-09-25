@@ -39,7 +39,8 @@ entirely. If your use case involves updating things, you'll have to
 consider some kind of conflict resolution.
 
 HTTP-requests are handled with an excellent library for _REST_ requests:
-[Retrofit](http://square.github.io/retrofit/) by [Square](playground). All necessary libraries are included
+[Retrofit](http://square.github.io/retrofit/) by
+[Square](http://square.github.io/). All necessary libraries are included
 in the _libs_ folder.
 
 ### Code
