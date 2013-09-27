@@ -667,7 +667,7 @@ an added line each, and we've got a new _REST_ method:
 
 ```python
 @post('/registergcm')
-def add_link(db, userid):
+def register_gcm(db, userid):
     '''Adds a registration id for a user to the database.
     Returns nothing.'''
     if 'application/json' not in request.content_type:
